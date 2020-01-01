@@ -1,0 +1,32 @@
+Dealer Up Card | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | A |
+ H = Hit       |   |   |   |   |   |   |   |   |    |   |
+ T = Stand     |   |   |   |   |   |   |   |   |    |   |
+ P = Split     |   |   |   |   |   |   |   |   |    |   |
+ D = DoubleDown|   |   |   |   |   |   |   |   |    |   |
+Player Hand    |   |   |   |   |   |   |   |   |    |   |
+       8       | H | H | H | H | H | H | H | H | H  | H |
+       9       | H | D | D | D | D | H | H | H | H  | H |
+      10       | D | D | D | D | D | D | D | D | H  | H |
+      11       | D | D | D | D | D | D | D | D | D  | H |
+      12       | H | H | T | T | T | H | H | H | H  | H |
+      13       | T | T | T | T | T | H | H | H | H  | H |
+      14       | T | T | T | T | T | H | H | H | H  | H |
+      15       | T | T | T | T | T | H | H | H | H  | H |
+      16       | T | T | T | T | T | H | H | H | H  | H |
+      A-2      | H | H | H | D | D | H | H | H | H  | H |
+      A-3      | H | H | H | D | D | H | H | H | H  | H |
+      A-4      | H | H | D | D | D | H | H | H | H  | H |
+      A-5      | H | H | D | D | D | H | H | H | H  | H |
+      A-6      | H | D | D | D | D | H | H | H | H  | H |
+      A-7      | T | D | D | D | D | T | T | H | H  | H |
+      A-8      | T | T | T | T | T | T | T | T | T  | T |
+      A-9      | T | T | T | T | T | T | T | T | T  | T |
+      A-A      | P | P | P | P | P | P | P | P | P  | P |
+      2-2      | P | P | P | P | P | P | H | H | H  | H |
+      3-3      | P | P | P | P | P | P | H | H | H  | H |
+      4-4      | H | H | H | P | P | H | H | H | H  | H |
+      5-5      | D | D | D | D | D | D | D | D | H  | H |
+      6-6      | P | P | P | P | P | H | H | H | H  | H |
+      7-7      | P | P | P | P | P | P | H | H | H  | H |
+      8-8      | P | P | P | P | P | P | P | P | P  | P |
+      9-9      | P | P | P | P | P | T | P | P | T  | T |
